@@ -1,0 +1,9 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+# Fichiers et dossiers à ignorer pour Python
+env/               # Environnement virtuel Python
+__pycache__/       # Dossier de cache Python
+*.pyc              # Fichiers compilés Python
+*.pyo              # Fichiers compilés Python
+*.pyd              # Fichiers compilés Python
+.DS_Store          # Fichier de configuration macOS
+.env               # Fichier d'environnement (s'il contient des secrets)
